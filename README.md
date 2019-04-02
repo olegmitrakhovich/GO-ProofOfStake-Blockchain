@@ -1,6 +1,15 @@
 # GO-ProofOfStake-Blockchain
 Proof Of Stake Blockchain written in GO
 
+go run main.go
+
+open your netcat (can be downloaded here https://joncraton.org/blog/46/netcat-for-windows/)
+
+in netcat window type: localhost 9000 ... this will create first validator
+
+open more netcat windows to create more validators
+
+
 ![startingUpPOS](https://user-images.githubusercontent.com/24768092/55372739-cbc31000-54d0-11e9-80ac-ea8f353e8eec.PNG)
 
 ![validator1](https://user-images.githubusercontent.com/24768092/55372793-ef865600-54d0-11e9-875f-f69d5f8365a8.PNG)
