@@ -11,6 +11,7 @@ in netcat window type: localhost 9000 ... this will create first validator
 
 open more netcat windows to create more validators
 
+![arc](https://user-images.githubusercontent.com/24768092/55372999-b7334780-54d1-11e9-9873-95e59b6f8dad.PNG)
 
 ![startingUpPOS](https://user-images.githubusercontent.com/24768092/55372739-cbc31000-54d0-11e9-80ac-ea8f353e8eec.PNG)
 
