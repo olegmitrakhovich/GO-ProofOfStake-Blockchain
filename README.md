@@ -1,6 +1,8 @@
 # GO-ProofOfStake-Blockchain
 Proof Of Stake Blockchain written in GO
 
+"In traditional Proof of Stake, a validator can be chosen as the winner even if they don’t propose a new block. Remember, Proof of Stake isn’t a definition, it’s a concept; there are lots of different implementations of Proof of Stake and like Proof of Work, each implementation has its own nuances"
+
 go run main.go
 
 open your netcat (can be downloaded here https://joncraton.org/blog/46/netcat-for-windows/)
